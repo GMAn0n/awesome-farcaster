@@ -4,6 +4,9 @@
 
 ### General
 
+
+- [Farcord](https://farcord.com)
+  -[Web](https://farcord.com/)
 - [Warpcast](https://warpcast.com/)
   - [Web](https://warpcast.com/), [iOS](https://apps.apple.com/us/app/farcaster/id1600555445), [Android](https://play.google.com/store/apps/details?id=com.farcaster.mobile)
 - [Supercast](https://www.supercast.xyz/)
